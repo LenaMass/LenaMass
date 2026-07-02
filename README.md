@@ -1,6 +1,6 @@
 # Hi, I'm Lena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
- iOS Developer · Game Developer · UX Designer.
+ iOS Developer · Game Developer.
 
 
 # 💻 Tech Stack:
